@@ -42,7 +42,7 @@ Ce projet est sous licence libre et peut être modifié ou redistribué.
 ## ✉️ **Contact**
 
 - **Email** : [sokevin7@gmail.com](mailto:sokevin7@gmail.com)
-- **Site web** : [www.couplegame.eliteero.com](https://www.couplegame.com)
+- **Site web** : [https://couplegame.eliteero.com/](https://couplegame.eliteero.com/)
 
 ---
 
